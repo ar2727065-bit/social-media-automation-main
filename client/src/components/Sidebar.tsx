@@ -22,7 +22,7 @@ const Sidebar = ({isOpen, setIsOpen} : {isOpen: boolean, setIsOpen: (val: boolea
      <div className="p-6 pb-4">
         <div className='text-xl tracking-tight text-slate-800 flex items-center gap-1.5'>
             <img src="/logo.svg" alt="logo" className='size-6' />
-            Scheduler
+            PostPilot
         </div>
 
      </div>

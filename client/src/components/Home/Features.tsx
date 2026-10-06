@@ -54,7 +54,7 @@ export default function Features() {
                         <br />
                         <span className="text-red-400 italic">social media workflow</span>
                     </h2>
-                    <p className="mt-5 text-gray-500 max-w-xl mx-auto leading-relaxed">From content creation to scheduling — Scheduler handles it all so you can focus on what matters most.</p>
+                    <p className="mt-5 text-gray-500 max-w-xl mx-auto leading-relaxed">From content creation to scheduling — PostPilot handles it all so you can focus on what matters most.</p>
                 </div>
 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">

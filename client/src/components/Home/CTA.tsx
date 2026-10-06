@@ -23,7 +23,7 @@ export default function CTA() {
                             <br />
                             <span className="text-red-400 italic">media today</span>
                         </h2>
-                        <p className="mt-6 text-gray-500 max-w-lg mx-auto  text-lg">Join thousands of creators and marketers who trust Scheduler to grow their audience on autopilot.</p>
+                        <p className="mt-6 text-gray-500 max-w-lg mx-auto  text-lg">Join thousands of creators and marketers who trust PostPilot to grow their audience on autopilot.</p>
 
                         <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-3">
                             <Link to="/login" className="bg-red-500 text-white rounded-full font-semibold hover:bg-red-600 hover:shadow-[0_8px_24px_rgba(239,68,68,0.35)] inline-flex items-center gap-2 text-[15px] px-10 py-4 w-full sm:w-auto justify-center">

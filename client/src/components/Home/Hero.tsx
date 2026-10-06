@@ -25,7 +25,7 @@ export default function Hero() {
                 </h1>
 
                 {/* Subheadline */}
-                <p className="mt-7 text-gray-500 max-w-2xl mx-auto">Scheduler lets you create, schedule, and auto-engage across all your social platforms — powered by AI that writes your captions and replies for you.</p>
+                <p className="mt-7 text-gray-500 max-w-2xl mx-auto">PostPilot lets you create, schedule, and auto-engage across all your social platforms — powered by AI that writes your captions and replies for you.</p>
 
                 {/* CTAs */}
                 <div className="mt-7 flex flex-col sm:flex-row items-center justify-center gap-3">
